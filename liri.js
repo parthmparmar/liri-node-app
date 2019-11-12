@@ -36,6 +36,7 @@ switch (command) {
                 console.log("movie name does not exist, please try again")
                 return
             };
+            
             console.log("Movie Title: " +results.data.Title);
             console.log("Release Year: " +results.data.Year);
             console.log("IMDB Rating: " +results.data.imdbRating);
