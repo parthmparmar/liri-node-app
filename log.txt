@@ -93,3 +93,97 @@ Song Name: Sign of the Times
 Song URL: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
 Album Name: Harry Styles
 -------------------------------------------------------------------------------------
+>
+Movie Title: Us
+Release Year: 2019
+IMDB Rating: 6.9
+Rotten Tomatoes Rating: undefined
+Country of Production: USA
+Language of Movie: English
+Movie Plot: A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.
+Actors: Lupita Nyong'o, Winston Duke, Elisabeth Moss, Tim Heidecker
+------------------------------------------------------------------
+>
+Events for: Tool 
+Venue Name: TD Garden
+Location: Boston, MA
+Date of Event: November 14th 2019, 8:00:00 pm
+-------------------------------------------------------------- 
+Venue Name: Prudential Center
+Location: Newark, NJ
+Date of Event: November 16th 2019, 8:00:00 pm
+-------------------------------------------------------------- 
+Venue Name: Wells Fargo Center
+Location: Philadelphia, PA
+Date of Event: November 18th 2019, 8:00:00 pm
+-------------------------------------------------------------- 
+Venue Name: Barclays Center
+Location: Brooklyn, NY
+Date of Event: November 19th 2019, 8:00:00 pm
+-------------------------------------------------------------- 
+Venue Name: Mohegan Sun Arena
+Location: Uncasville, CT
+Date of Event: November 21st 2019, 8:00:00 pm
+-------------------------------------------------------------- 
+Venue Name: Boardwalk Hall
+Location: Atlantic City, NJ
+Date of Event: November 22nd 2019, 8:00:00 pm
+-------------------------------------------------------------- 
+Venue Name: PNC Arena
+Location: Raleigh, NC
+Date of Event: November 24th 2019, 8:00:00 pm
+-------------------------------------------------------------- 
+Venue Name: Capital One Arena
+Location: Washington, DC
+Date of Event: November 25th 2019, 8:00:00 pm
+-------------------------------------------------------------- 
+Venue Name: Viejas Arena
+Location: San Diego, CA
+Date of Event: January 10th 2020, 8:00:00 pm
+-------------------------------------------------------------- 
+Venue Name: Viejas Arena
+Location: San Diego, CA
+Date of Event: January 12th 2020, 8:00:00 pm
+-------------------------------------------------------------- 
+Venue Name: Save Mart Center
+Location: Fresno, CA
+Date of Event: January 15th 2020, 7:30:00 pm
+-------------------------------------------------------------- 
+Venue Name: T-Mobile Arena
+Location: Las Vegas, NV
+Date of Event: January 17th 2020, 8:00:00 pm
+-------------------------------------------------------------- 
+Venue Name: Gila River Arena
+Location: Glendale, AZ
+Date of Event: January 18th 2020, 7:30:00 pm
+-------------------------------------------------------------- 
+Venue Name: Frank C. Erwin, Jr., Special Events Center
+Location: Austin, TX
+Date of Event: January 21st 2020, 7:30:00 pm
+-------------------------------------------------------------- 
+Venue Name: American Airlines Center
+Location: Dallas, TX
+Date of Event: January 22nd 2020, 7:30:00 pm
+-------------------------------------------------------------- 
+Venue Name: State Farm Arena
+Location: Atlanta, GA
+Date of Event: January 28th 2020, 7:30:00 pm
+-------------------------------------------------------------- 
+Venue Name: Bridgestone Arena
+Location: Nashville, TN
+Date of Event: January 29th 2020, 7:30:00 pm
+-------------------------------------------------------------- 
+Venue Name: FedEx Forum
+Location: Memphis, TN
+Date of Event: January 31st 2020, 7:00:00 pm
+-------------------------------------------------------------- 
+Venue Name: Smoothie King Center
+Location: New Orleans, LA
+Date of Event: February 1st 2020, 8:00:00 pm
+--------------------------------------------------------------
+>
+Artist(s): Khalid
+Song Name: Better
+Song URL: https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ
+Album Name: Suncity
+-------------------------------------------------------------------------------------
