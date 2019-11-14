@@ -38,7 +38,9 @@ The app is organized in a few different javascript files.
 
 ## Deployment
 
-link: 
+link: None
+
+**Local Use Only**
 
 ## Technologies Used
 
