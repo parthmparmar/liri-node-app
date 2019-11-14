@@ -55,4 +55,8 @@ Parth Parmar -- developer of the liri app using the technologies mentioned above
 
 ## Demo
 
+### App Function
 ![](liri.gif)
+
+### Log File
+![](log.gif)
