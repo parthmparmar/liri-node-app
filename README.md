@@ -1,6 +1,7 @@
 # liri-node-app
 
 ## Objective
+
 The objective of liri-node-app is to provide a quick search tool for events, song info or movie info from the command line interface CLI.  
 The app will give uses a quick way to find out the following:
 - concert-this: find out events for a artist
@@ -9,6 +10,7 @@ The app will give uses a quick way to find out the following:
 - do-what-it-says: run command and search specified in random.txt file
 
 ##  Organization
+
 The app is organized in a few different javascript files.
 - **main file** -- liri.js
     - accepts user input from CLI and calls the required API
@@ -22,9 +24,8 @@ The app is organized in a few different javascript files.
 - **other** -- keys.js, .env
     - contains the necessary information used by the node-spotify-api
 
-## How to run
+## How to Run
 
-### initial run
 1. clone / fork repo to your computer using git commands
 2. run ```npm install``` in CLI to download required node modules to run app
 3. navigate to folder with file contents in CLI (e.g. terminal)
@@ -35,11 +36,23 @@ The app is organized in a few different javascript files.
     - ```node liri do-what-it-says``` -- run the command and search item as written in random.txt file (separate command and search item by comma)
 5. review log.txt file to see history of search results
 
-## deployment
+## Deployment
 
 link: 
 
-## technologies used
+## Technologies Used
+
 - npm: to install required modules
 - axios: use to request data from bandsintown API and omdb API
-- dotenv: get 
+- dotenv: loads environment variables from a .env
+- moment: used to convert date & time from bansintown for event timing to a easier to read format
+- node-spotify-api: to request song info from spotify
+- fs: to read random.txt file and to append search results to log.txt file
+
+## Contact
+
+Parth Parmar -- developer of the liri app using the technologies mentioned above
+
+## Demo
+
+![](liri.gif)
